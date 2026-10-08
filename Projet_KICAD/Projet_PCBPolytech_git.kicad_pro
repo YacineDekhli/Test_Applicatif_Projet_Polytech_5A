@@ -672,15 +672,28 @@
         "filename": "Projet_PCBPolytech_git.kicad_sch",
         "name": "Projet_PCBPolytech_git",
         "uuid": "4cd5a3a6-441a-4d49-b89e-ac57047910ed"
+      },
+      {
+        "filename": "applicatif.kicad_sch",
+        "name": "Applicatif",
+        "uuid": "750ff525-9977-4cac-ba55-38ed372c225e"
       }
     ],
-    "used_designators": "U1-2,J1-2,R1-4,D1-2,#PWR1-6,C1-3,SW1-2,TP1",
+    "used_designators": "U1-4,J1-2,R1-5,D1-2,#PWR1-9,C1-4,SW1-2,TP1-2,MK1",
     "variants": []
   },
   "sheets": [
     [
       "4cd5a3a6-441a-4d49-b89e-ac57047910ed",
       "Projet_PCBPolytech_git"
+    ],
+    [
+      "750ff525-9977-4cac-ba55-38ed372c225e",
+      "Applicatif"
+    ],
+    [
+      "3586c256-2d61-41d8-afa2-de62313f5975",
+      "Microphones"
     ]
   ],
   "text_variables": {},
